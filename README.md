@@ -2,13 +2,13 @@
 
 大家好，我是闲者，一个不断探索、持续输出的永不言败者！
 
-## [闲着 - 闲者何去](https://justmyfreedom.com/)
+## [闲着 - 闲者何去](https://wbtime.com/)
 
 ![闲着首页](docfile/闲着首页.png)
 
 首页做的比较简单，仅仅是一个简单的展示页，展示项目及最近信息的地方，底部有订阅按钮，感兴趣的朋友可以留下邮箱，后面会不定时发送网站相关信息！
 
-## [闲着导航 - 自由探索世界](https://nav.justmyfreedom.com/)
+## [闲着导航 - 自由探索世界](https://nav.wbtime.com/)
 
 ![闲着导航](docfile/闲着导航.png)
 
@@ -16,7 +16,7 @@
 
 目前导航页面上的数据是从后台获取的，暂时不支持自定义设置导航，后面会增加支持自定义设置导航。
 
-##  [闲者博客 - 生活，如此而已！](https://blog.justmyfreedom.com/)
+##  [闲者博客 - 生活，如此而已！](https://blog.wbtime.com/)
 
 ![闲者博客](docfile/闲者博客.png)
 
@@ -24,17 +24,12 @@
 
 [博客模板下载地址](https://justmyfreedom.lanzouv.com/ivr3D20oq0mf)
 
-## 公众号
-
-感兴趣的朋友可以关注下我的公众号，新消息会在公众号上发布的：[闲者何去](https://mp.weixin.qq.com/s?__biz=Mzk0MTQzOTIzNw==&mid=2247483804&idx=1&sn=0fb018f1defd2aaf6f04dba35dd0ed29&chksm=c2d321f6f5a4a8e07df0a245ed465a53a7d725ea9695cb160c45f742dbc371d52694686c8035&scene=126&sessionid=1702867566#rd)
-
-![闲者何去公众号](docfile/公众号.jpg)
-
-
 ## 联系方式
-大家有什么想法和点子可以联系我，微信扫码添加：
 
-![微信联系](docfile/微信联系.png)
+感兴趣的朋友可以关注下我的公众号或联系我，扫码添加，新消息会在公众号上发布的：[闲者何去](https://mp.weixin.qq.com/s?__biz=Mzk0MTQzOTIzNw==&mid=2247483804&idx=1&sn=0fb018f1defd2aaf6f04dba35dd0ed29&chksm=c2d321f6f5a4a8e07df0a245ed465a53a7d725ea9695cb160c45f742dbc371d52694686c8035&scene=126&sessionid=1702867566#rd)
+
+![闲者何去公众号微信](docfile/公众号微信联系.png)
+
 
 ## 赞赏
 
